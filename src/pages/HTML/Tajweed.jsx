@@ -13,7 +13,7 @@ function tajweed() {
     <div className="container">
       <div className="lecture-header">
         <h4>Lectures</h4>
-        <h1 style={{direction:"rtl"}}>التجويد</h1>
+        <h1 style={{direction:"rtl", color: "var(--clr-text-t)"}}>التجويد</h1>
         <h4><u>First</u> step in Learning Quran Roadmap</h4>
 
         <div className="search-bar">
@@ -23,11 +23,11 @@ function tajweed() {
           <input type="text" placeholder="Search by title" onChange={submitButton}/>
         </div>
 
-        <h5>17 Lectures</h5>
+        <h5>17 Lectures <button style={{backgroundColor: "green", color: "white"}}>Completed</button></h5>
       </div>
 
       <div className="lecture-main">
-        <LectureCard />
+        <LectureCard source="tajweed" color="--clr-text-t"/>
       </div>
     </div>
   );

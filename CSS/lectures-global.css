@@ -9,6 +9,7 @@
   --clr-text-hj: #4e91fd;
   --clr-text-f: #ec6b5b;
   --clr-text-T: #ffd700;
+  --clr-text-tbom: #ea4335;
 }
 
 body {
@@ -34,7 +35,6 @@ body {
 
   h1 {
     margin-block: 1rem;
-    color: var(--clr-text-t);
   }
   h4:last-of-type {
     opacity: 0.5;
@@ -69,7 +69,17 @@ body {
 /*************** Main ***************/
 h5 {
   margin-block-start: 0.75rem;
-  margin-block-end: 0.5rem;
+  margin-block-end: 1rem;
+
+  button {
+      border: 0;
+      font-weight: bold;
+      padding: 0.25rem;
+      outline: transparent;
+      margin: 0;
+      margin-inline-start: 1.5rem;
+      border-radius: 1rem;
+    }
 }
 
 .lecture-main {
@@ -98,15 +108,14 @@ h5 {
     background-repeat: no-repeat;
     width: 90%;
     aspect-ratio: 1/1;
-    border-radius: 0.5rem;
+    border-radius: 1.5rem;
     position: relative;
-    box-shadow: 0 0 1rem 0 var(--clr-text-t);
     transition: box-shadow 0.5s;
     transition: transform 0.5s;
   }
 
   > *:hover {
-    box-shadow: 0 0 1rem 0 silver;
+    box-shadow: 0 0 1rem 0 silver !important;
     transform: translateY(-1rem);
     z-index: 100;
   }
@@ -135,7 +144,6 @@ h5 {
   }
 
   a {
-    color: var(--clr-text-t);
     text-decoration: none;
     transition:
       color 0.5s,
@@ -146,7 +154,7 @@ h5 {
   a:has(div):hover {
     transform: translateY(-1rem);
     color: gold;
-    box-shadow: 0 0 1rem 0 silver;
+    box-shadow: 0 0 1rem 0 silver !important;
     z-index: 100;
   }
 
@@ -154,7 +162,7 @@ h5 {
     transition: color 0.5s;
   }
   a:has(div):hover h3 > a {
-    color: gold;
+    color: gold !important;
   }
 }
 
@@ -163,7 +171,7 @@ h5 {
   .container {
     max-width: 85%;
   }
-  
+
   .search-bar {
     width: 45%;
   }
