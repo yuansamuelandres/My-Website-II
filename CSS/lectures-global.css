@@ -72,18 +72,51 @@ h5 {
   margin-block-end: 1rem;
 
   button {
-      border: 0;
-      font-weight: bold;
-      padding: 0.25rem;
-      outline: transparent;
-      margin: 0;
-      margin-inline-start: 1.5rem;
-      border-radius: 1rem;
-    }
+    border: 0;
+    font-weight: bold;
+    padding: 0.25rem;
+    outline: transparent;
+    margin: 0;
+    margin-inline-start: 1.5rem;
+    border-radius: 1rem;
+  }
 }
 
 .lecture-main {
   width: 100%;
+
+  > .part1,
+  .part2 {
+    /* border: #ea4335 1px solid; */
+    max-width: 60%;
+    margin-inline: auto;
+    box-shadow: 0 0 1rem 0 silver;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 1rem;
+    margin-block: 1.5rem;
+    font-weight: bold;
+    font-size: x-large;
+    transition: color 0.3s;
+
+    a,
+    a:visited {
+      text-decoration-color: transparent;
+      transition:
+        color 0.5s,
+        text-decoration-color 0.5s;
+      color: silver;
+    }
+    a:hover {
+      color: gold;
+      text-decoration-color: gold;
+    }
+  }
+}
+
+.part-img {
+  width: 15rem;
+  border-radius: 1rem;
 }
 
 .lecture-cards {
