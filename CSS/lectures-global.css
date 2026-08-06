@@ -27,6 +27,15 @@ body {
 }
 
 /*************** Header ***************/
+.navbar {
+  a {
+    color: silver;
+  }
+
+  display: flex;
+  gap: 1rem;
+}
+
 .lecture-header {
   h1,
   h4 {
