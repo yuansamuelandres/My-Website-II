@@ -12,9 +12,9 @@ import D_2 from "./pages/HTML/D/D_2.jsx";
 function App() {
   return (
     <>
-      {/* <NavBar/> */}
+      <NavBar />
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        {/* <Route path="/" element={<HomePage />} /> */}
         <Route path="/html/tajweed" element={<Tajweed />} />
         <Route path="/html/SH" element={<SH />} />
         <Route path="/html/SH/SH_1" element={<SH_1 />} />
