@@ -32,7 +32,7 @@ function SH() {
         </div>
 
         <h5>
-          17 Lectures{" "}
+          39 Lectures{" "}
           <button style={{ backgroundColor: "yellow", color: "black" }}>
             Ongoing
           </button>
