@@ -36,12 +36,6 @@ function D_2() {
           />
         </div>
 
-        <h5>
-          17 Lectures{" "}
-          <button style={{ backgroundColor: "yellow", color: "black" }}>
-            Ongoing
-          </button>
-        </h5>
       </div>
 
       <div className="lecture-main">

@@ -36,12 +36,6 @@ function D_1() {
           />
         </div>
 
-        <h5>
-          10 Lectures{" "}
-          <button style={{ backgroundColor: "green", color: "white" }}>
-            Completed
-          </button>
-        </h5>
       </div>
 
       <div className="lecture-main">

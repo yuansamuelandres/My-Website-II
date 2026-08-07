@@ -23,7 +23,6 @@ function tajweed() {
           <input type="text" placeholder="Search by title" onChange={submitButton}/>
         </div>
 
-        <h5>17 Lectures <button style={{backgroundColor: "green", color: "white"}}>Completed</button></h5>
       </div>
 
       <div className="lecture-main">

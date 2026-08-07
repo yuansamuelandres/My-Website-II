@@ -1,417 +1,426 @@
 {
-  "tajweed": {
-    "Lec 1": {
-      "img": "https://images.unsplash.com/photo-1607014326008-cbf35c358666?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب مخارج الحروف",
-      "url": "https://share.ue.internxt.com/sh/file/aNIlpWgFQLClakZ9ZNLpvw/MLVbx5bm"
+  "lectures": {
+    "tajweed": {
+      "Lec 1": {
+        "img": "https://images.unsplash.com/photo-1607014326008-cbf35c358666?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب مخارج الحروف",
+        "url": "https://share.ue.internxt.com/sh/file/aNIlpWgFQLClakZ9ZNLpvw/MLVbx5bm"
+      },
+      "Lec 2": {
+        "img": "https://images.unsplash.com/photo-1703429066754-b2f322b4253c?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب صفات الحروف",
+        "url": "https://share.ue.internxt.com/sh/file/aNIlpWgFQLClakZ9ZNLpvw/MLVbx5bm"
+      },
+      "Table": {
+        "img": "https://plus.unsplash.com/premium_photo-1677402408071-232d1c3c3787?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "جدول مخارج وصفات الحروف",
+        "url": ""
+      },
+      "Lec 3": {
+        "img": "https://images.unsplash.com/photo-1773738495671-79b90e39dc54?q=80&w=556&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب معرفة التجويد",
+        "url": "https://secure.eu.internxt.com/sh/file/zheL4Wb6TKKU6CTJ-n7D_Q/CyvHxdEr"
+      },
+      "Lec 4": {
+        "img": "https://images.unsplash.com/photo-1770065468266-5e584707b0d9?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "تنبيهات ابن الجزري في استعمال بعض الحروف",
+        "url": "https://share.eu.internxt.com/sh/file/lt5MBFEURVO6wISqy7QTCg/YPYG0dNg"
+      },
+      "Lec 5": {
+        "img": "https://plus.unsplash.com/premium_photo-1666739086588-d6edd6c4f8b4?q=80&w=442&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "التفخيم والترقيق",
+        "url": "https://secure.internxt.com/sh/file/H4PVA4PKSHKtYhhHUyQOLA/xDzHl3fq"
+      },
+      "Lec 6": {
+        "img": "https://plus.unsplash.com/premium_photo-1681426404336-312aaf983aad?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "بابا الراءات واللامات",
+        "url": "https://share.ue.internxt.com/sh/file/XXzxj2oASVS5FCPcog99LA/PTFZxozQ"
+      },
+      "Lec 7": {
+        "img": "https://images.unsplash.com/photo-1632653323756-a9b6966bc4d1?q=80&w=636&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب الضاد والظاء",
+        "url": "https://secure.internxt.com/sh/file/TJNzBFfFSaKKIoJlgFlcUQ/piUaMuyp"
+      },
+      "Lec 8": {
+        "img": "https://images.unsplash.com/photo-1598402459037-d611202fe614?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب النون والميم المشددتين والميم الساكنة",
+        "url": "https://share.eu.internxt.com/sh/file/Jkjn_uZTSaKcYWUFvQ1jxw/6S1hAPck"
+      },
+      "Lec 9": {
+        "img": "https://images.unsplash.com/photo-1650692809949-23015158c8e3?q=80&w=581&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب أحكام النون الساكنة والتنوين",
+        "url": "https://secure.internxt.com/sh/file/jerjSVifQ8ir6mV1qL_9mw/HZDCyr4z"
+      },
+      "Lec 10": {
+        "img": "https://images.unsplash.com/photo-1724433336905-e693d678cef0?q=80&w=616&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب أحكام المد",
+        "url": "https://secure.ue.internxt.com/sh/file/kmqPV1KnTzeHwiNd35Mkhg/WKjBDUo6"
+      },
+      "Lec 11": {
+        "img": "https://images.unsplash.com/photo-1766561994175-993a72f407d4?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب معرفة الوقف والابتداء",
+        "url": "https://share.eu.internxt.com/sh/file/8DBspcPESY6r_cf_wBkW5w/lK_o4nL6"
+      },
+      "Lec 12": {
+        "img": "https://images.unsplash.com/photo-1573483883644-d0b4b55eb25d?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب المقطوع والموصول",
+        "url": "https://secure.eu.internxt.com/sh/file/DzEToEy3TAWdPg8joAn2_Q/mLTz4bys"
+      },
+      "Lec 13": {
+        "img": "https://images.unsplash.com/photo-1641989210602-7c1efb2ff66c?q=80&w=601&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب التاءات",
+        "url": "https://share.ue.internxt.com/sh/file/7IePPt8HTa2IUaaloZlHLQ/noykXurq"
+      },
+      "Lec 14": {
+        "img": "https://images.unsplash.com/photo-1633412802994-5c058f151b66?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب همز الوصل",
+        "url": "https://secure.internxt.com/sh/file/XAv3RY1qSl24FbswgLrknw/OKxPWEUj"
+      },
+      "Lec 15": {
+        "img": "https://plus.unsplash.com/premium_photo-1683133939183-edd5476e6200?q=80&w=606&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "باب الوقف على أواخر الكلم",
+        "url": "https://secure.internxt.com/sh/file/4o9cOnEXSKibKjjb0sTI1w/c3ROMY6u"
+      },
+      "Lec 16": {
+        "img": "https://images.unsplash.com/photo-1639826909363-f7a7a2f77991?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "المتماثلان والمتجانسان والمتقاربان والمتباعدان",
+        "url": "https://share.eu.internxt.com/sh/file/ot1ojgfTQDSDdtWamBMqRg/sYeefFnJ"
+      },
+      "Lec 17": {
+        "img": "https://images.unsplash.com/photo-1583502568346-dbb4e3eb0e8d?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "الاستعاذة والبسملة",
+        "url": "https://share.ue.internxt.com/sh/file/pA8DzDYgRiKxhuBNP9rp-A/yCiTHo26"
+      }
     },
-    "Lec 2": {
-      "img": "https://images.unsplash.com/photo-1703429066754-b2f322b4253c?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب صفات الحروف",
-      "url": "https://share.ue.internxt.com/sh/file/aNIlpWgFQLClakZ9ZNLpvw/MLVbx5bm"
+    "SH_1": {
+      "Lec 1": {
+        "img": "",
+        "title": "خطبة الكتاب",
+        "url": "https://share.eu.internxt.com/sh/file/T80ssJI1TdaPRNPw2aupyQ/M8oTI527"
+      },
+      "Lec 2, 3": {
+        "img": "",
+        "title": "بابا اﻻستعاذة والبسملة",
+        "url": "https://share.ue.internxt.com/sh/file/NHh9XZ-LR4C412CjDV07Qw/fMJ01iPL"
+      },
+      "Lec 4": {
+        "img": "",
+        "title": "سورة أم القرآن",
+        "url": "https://share.ue.internxt.com/sh/file/-_K8KvYITgSHrARiKpr7Jw/_ro81V72"
+      },
+      "Lec 5": {
+        "img": "",
+        "title": "باب اﻹدغام الكبير",
+        "url": "https://share.ue.internxt.com/sh/file/zo1R5ypsTa6dal5KT17dDQ/suNlNnpv"
+      },
+      "Lec 6": {
+        "img": "",
+        "title": "باب هاء الكناية",
+        "url": "https://secure.internxt.com/sh/file/v6uGvLLHQy-uVlkaPXL_kA/EI4KbW7m"
+      },
+      "Lec 7": {
+        "img": "",
+        "title": "باب المد والقصر",
+        "url": "https://share.ue.internxt.com/sh/file/ejm2LDTfSzextl3BorT_Ug/ZNHsUCMs"
+      },
+      "Lec 8": {
+        "img": "",
+        "title": "باب الهمزتين من كلمة",
+        "url": "https://secure.internxt.com/sh/file/4AAb6JTfSIiJlnAWJ7x51Q/G8njEtSJ"
+      },
+      "Lec 9": {
+        "img": "",
+        "title": "باب الهمزتين من كلمتين",
+        "url": "https://share.ue.internxt.com/sh/file/iHRWlYglQnCY8VdKccSlvA/JfhFV0RD"
+      },
+      "Lec 10": {
+        "img": "",
+        "title": "باب الهمز المفرد",
+        "url": "https://secure.internxt.com/sh/file/pZj-4k3cSKKxekPbPZSi2g/7K-pjsyS"
+      },
+      "Lec 11": {
+        "img": "",
+        "title": "باب نقل حركة الهمزة إلى الساكن قبلها",
+        "url": "https://share.ue.internxt.com/sh/file/EJCiMcQMQAyb_ieo1Yc7cw/xPkl9p98"
+      },
+      "Lec 12": {
+        "img": "",
+        "title": "باب وقف حمزة وهشام على الهمز",
+        "url": "https://secure.internxt.com/sh/file/6wN9M28ETKqtOBVqShFhWw/VdKajths"
+      },
+      "Lec 13": {
+        "img": "",
+        "title": "باب اﻹظهار واﻹدغام",
+        "url": "https://secure.internxt.com/sh/file/YjhF63AGQjG56icSlNCAkA/_2RwvMIp"
+      },
+      "Lec 14": {
+        "img": "",
+        "title": "باب حروف قربت مخارجها",
+        "url": "https://secure.internxt.com/sh/file/VGC3s6FDR1aG_dmUiICB3w/V23u_6I5"
+      },
+      "Lec 15": {
+        "img": "",
+        "title": "باب أحكام النون الساكنة والتنوين",
+        "url": "https://secure.ue.internxt.com/sh/file/PzFGc27cR1uoPMEVHY11mA/Am_tFwig"
+      },
+      "Lec 16": {
+        "img": "",
+        "title": "باب الفتح واﻹمالة وبين اللفظين",
+        "url": "https://share.ue.internxt.com/sh/file/WLLzr3NNQLy2KBnYvtVEFw/kturi-8S"
+      },
+      "Lec 17": {
+        "img": "",
+        "title": "باب مذهب الكسائي في إمالة هاء التأنيث وما قبلها في الوقف",
+        "url": "https://secure.ue.internxt.com/sh/file/KnDsEC7vQwGwihoiS5j8bQ/DAKdKzHg"
+      },
+      "Lec 18": {
+        "img": "",
+        "title": "باب الراءات",
+        "url": "https://secure.internxt.com/sh/file/av4arhkuQa-7ojQQ-xquVQ/qrY21wEn"
+      },
+      "Lec 19": {
+        "img": "",
+        "title": "باب اللامات",
+        "url": "https://share.eu.internxt.com/sh/file/D0RZFRO0TFGDCtvuKDyn4g/rjklQR_z"
+      },
+      "Lec 20": {
+        "img": "",
+        "title": "باب الوقف على مرسوم الخط",
+        "url": "https://secure.internxt.com/sh/file/Hj3rTLFRQUiSCrt2kShraQ/hh8LKAwK"
+      },
+      "Lec 21": {
+        "img": "",
+        "title": "باب ياءات اﻹضافة",
+        "url": "https://secure.internxt.com/sh/file/saqWpSdnQ4Cqr1alMN4LkA/-efqY8xt"
+      },
+      "Lec 22": {
+        "img": "",
+        "title": "باب الياءات الزوائد",
+        "url": "https://secure.internxt.com/sh/file/ixa71fLvQAGf3__Kow4r1Q/MlfyBKOo"
+      }
     },
-    "Table": {
-      "img": "https://plus.unsplash.com/premium_photo-1677402408071-232d1c3c3787?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "جدول مخارج وصفات الحروف",
-      "url": ""
+    "SH_2": {
+      "Lec 23": {
+        "img": "",
+        "title": "باب فرش الحروف: سورة البقرة",
+        "url": "https://secure.eu.internxt.com/sh/file/1UOu5rkWQPanCsQ-xm7yHg/6niB3eJe"
+      },
+      "Lec 24": {
+        "img": "",
+        "title": "سورة آل عمران",
+        "url": "https://secure.internxt.com/sh/file/3edRt4RQRDWmfAkGAQbSXg/yu1wWg-c"
+      },
+      "Lec 25": {
+        "img": "",
+        "title": "سورة النساء",
+        "url": "https://share.ue.internxt.com/sh/file/6HRJLwj4RnOpl27sJFMfuA/1XQpIm--"
+      },
+      "Lec 26": {
+        "img": "",
+        "title": "سورة المائدة",
+        "url": "https://share.eu.internxt.com/sh/file/KPM5lebzQeKARN3TaRE3NA/Px2XOgsx"
+      },
+      "Lec 27": {
+        "img": "",
+        "title": "سورة اﻷنعام",
+        "url": "https://secure.internxt.com/sh/file/_AEMwfabQKe2eWAj1ZHl5A/8VLUbZfJ"
+      },
+      "Lec 28": {
+        "img": "",
+        "title": "سورة اﻷعراف",
+        "url": "https://secure.internxt.com/sh/file/3-JeRYi-SGWGtRUgGdm8pQ/ne8XgzHv"
+      },
+      "Lec 29": {
+        "img": "",
+        "title": "سورة اﻷنفال",
+        "url": "https://secure.internxt.com/sh/file/EHrizRHtTMydXH_vMd7d6A/GxumvzVR"
+      },
+      "Lec 30": {
+        "img": "",
+        "title": "سورة التوبة",
+        "url": "https://share.eu.internxt.com/sh/file/4zPgPwggQn2tmRPhsjUwdw/PGtmtr9R"
+      },
+      "Lec 31": {
+        "img": "",
+        "title": "سورة يونس",
+        "url": "https://secure.eu.internxt.com/sh/file/O75eEU5dTKOTrz88O9yI0A/I24QX6Op"
+      },
+      "Lec 32": {
+        "img": "",
+        "title": "سورة هود",
+        "url": "https://share.ue.internxt.com/sh/file/zL7j-h5XTX2Vuf6lgWru_A/NN0hL9DM"
+      },
+      "Lec 33": {
+        "img": "",
+        "title": "سورة يوسف",
+        "url": "https://secure.internxt.com/sh/file/L7-pL3VSSBmrNR7i692QwA/URXegW8S"
+      },
+      "Lec 34": {
+        "img": "",
+        "title": "سورة الرعد",
+        "url": "https://secure.internxt.com/sh/file/j_Yofuw7T32nDG6ppQOGqg/5vnuGlVy"
+      },
+      "Lec 35": {
+        "img": "",
+        "title": "سورة إبراهيم",
+        "url": "https://share.ue.internxt.com/sh/file/90Mrj1AyQxurCWKKjkuQiQ/s_zPU0T2"
+      },
+      "Lec 36": {
+        "img": "",
+        "title": "سورة الحجر",
+        "url": "https://secure.ue.internxt.com/sh/file/ND9JKK2fQwq9lhhI_TZrPA/RpHjzBcT"
+      },
+      "Lec 37": {
+        "img": "",
+        "title": "سورة النحل",
+        "url": "https://secure.eu.internxt.com/sh/file/42m9l8fHR7KhuqQS9KOF9g/zJjrz1yl"
+      },
+      "Lec 38": {
+        "img": "",
+        "title": "سورة اﻹسراء",
+        "url": "https://secure.internxt.com/sh/file/B38TeG0ARv2Pv2YMUZmFgg/eBZE8NcH"
+      },
+      "Lec 39": {
+        "img": "",
+        "title": "سورة الكهف",
+        "url": "https://secure.internxt.com/sh/file/KwTEdjAFSMCnKpvGyDSffA/42I7XV1U"
+      }
     },
-    "Lec 3": {
-      "img": "https://images.unsplash.com/photo-1773738495671-79b90e39dc54?q=80&w=556&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب معرفة التجويد",
-      "url": "https://secure.eu.internxt.com/sh/file/zheL4Wb6TKKU6CTJ-n7D_Q/CyvHxdEr"
+    "D_1": {
+      "Lec 1": {
+        "img": "",
+        "title": "المقدمة",
+        "url": "https://share.eu.internxt.com/sh/file/QyxsvbgDQM2SkDEvpnAvNA/TWKpKO9z"
+      },
+      "Lec 2": {
+        "img": "",
+        "title": "باب البسملة وأم القرآن",
+        "url": "https://share.ue.internxt.com/sh/file/QstqPxybQlqFsD8UMBQRPg/SyQD6BLa"
+      },
+      "Lec 3": {
+        "img": "",
+        "title": "اﻹدغام الكبير",
+        "url": "https://share.eu.internxt.com/sh/file/2sWV2WrtQoCEn41ay7B0ww/daey7jPS"
+      },
+      "Lec 4": {
+        "img": "",
+        "title": "هاء الكناية",
+        "url": "https://secure.ue.internxt.com/sh/file/o13E4XrrTkmU-EPI8-TIkg/sQ5Denjj"
+      },
+      "Lec 5": {
+        "img": "",
+        "title": "المد والقصر",
+        "url": "https://secure.eu.internxt.com/sh/file/OsJFxHQpTESfS_xobwTHrQ/PjmnsqB0"
+      },
+      "Lec 6": {
+        "img": "",
+        "title": "الهمزتان من كلمة",
+        "url": "https://share.eu.internxt.com/sh/file/Gg5NplGQS7m6iOviAGG2Mw/9-9I9Lz1"
+      },
+      "Lec 7": {
+        "img": "",
+        "title": "الهمزتان من كلمتين",
+        "url": "https://secure.internxt.com/sh/file/aN8z_3S1QzawV-G6X5T6ZQ/JI9bteZr"
+      },
+      "Lec 8": {
+        "img": "",
+        "title": "الهمز المفرد",
+        "url": "https://share.ue.internxt.com/sh/file/S4nPKOK5Q0iDp3AZvNceQQ/W2spQb06"
+      },
+      "Lec 9": {
+        "img": "",
+        "title": "النقل والسكت والوقف على الهمز",
+        "url": "https://secure.eu.internxt.com/sh/file/ixIEe6yJS2W_qEaDGspQWQ/vnKQG9Ns"
+      },
+      "Lec 10": {
+        "img": "",
+        "title": "اﻹدغام الصغير",
+        "url": "https://secure.ue.internxt.com/sh/file/gqfUxlC4TgyUuL5VYFYn7A/DXwh1Wu0"
+      },
+      "Lec 11": {
+        "img": "",
+        "title": "النون الساكنة والتنوين",
+        "url": "https://share.ue.internxt.com/sh/file/QouCjBa5RfqvvhkHh0VLTQ/pPBi3---"
+      },
+      "Lec 12": {
+        "img": "",
+        "title": "الفتح واﻹمالة",
+        "url": "https://secure.ue.internxt.com/sh/file/r1LUIoUvQtK10vTYEJQ6ug/j2cEnHfy"
+      },
+      "Lec 13": {
+        "img": "",
+        "title": "الراءات واللامات والوقف على المرسوم",
+        "url": "https://secure.eu.internxt.com/sh/file/xpbMv3YMQXOXoPcMoclSJw/3NXKKviH"
+      },
+      "Lec 14": {
+        "img": "",
+        "title": "ياءات اﻹضافة",
+        "url": "https://share.eu.internxt.com/sh/file/pcJPuMsQTDKIOphD2zrsTg/6izJlSLZ"
+      },
+      "Lec 15": {
+        "img": "",
+        "title": "الياءات الزوائد",
+        "url": "https://share.eu.internxt.com/sh/file/f_3tCRhlSl6tp3A6EugEsA/uNSxUfLB"
+      }
     },
-    "Lec 4": {
-      "img": "https://images.unsplash.com/photo-1770065468266-5e584707b0d9?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "تنبيهات ابن الجزري في استعمال بعض الحروف",
-      "url": "https://share.eu.internxt.com/sh/file/lt5MBFEURVO6wISqy7QTCg/YPYG0dNg"
-    },
-    "Lec 5": {
-      "img": "https://plus.unsplash.com/premium_photo-1666739086588-d6edd6c4f8b4?q=80&w=442&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "التفخيم والترقيق",
-      "url": "https://secure.internxt.com/sh/file/H4PVA4PKSHKtYhhHUyQOLA/xDzHl3fq"
-    },
-    "Lec 6": {
-      "img": "https://plus.unsplash.com/premium_photo-1681426404336-312aaf983aad?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "بابا الراءات واللامات",
-      "url": "https://share.ue.internxt.com/sh/file/XXzxj2oASVS5FCPcog99LA/PTFZxozQ"
-    },
-    "Lec 7": {
-      "img": "https://images.unsplash.com/photo-1632653323756-a9b6966bc4d1?q=80&w=636&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب الضاد والظاء",
-      "url": "https://secure.internxt.com/sh/file/TJNzBFfFSaKKIoJlgFlcUQ/piUaMuyp"
-    },
-    "Lec 8": {
-      "img": "https://images.unsplash.com/photo-1598402459037-d611202fe614?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب النون والميم المشددتين والميم الساكنة",
-      "url": "https://share.eu.internxt.com/sh/file/Jkjn_uZTSaKcYWUFvQ1jxw/6S1hAPck"
-    },
-    "Lec 9": {
-      "img": "https://images.unsplash.com/photo-1650692809949-23015158c8e3?q=80&w=581&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب أحكام النون الساكنة والتنوين",
-      "url": "https://secure.internxt.com/sh/file/jerjSVifQ8ir6mV1qL_9mw/HZDCyr4z"
-    },
-    "Lec 10": {
-      "img": "https://images.unsplash.com/photo-1724433336905-e693d678cef0?q=80&w=616&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب أحكام المد",
-      "url": "https://secure.ue.internxt.com/sh/file/kmqPV1KnTzeHwiNd35Mkhg/WKjBDUo6"
-    },
-    "Lec 11": {
-      "img": "https://images.unsplash.com/photo-1766561994175-993a72f407d4?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب معرفة الوقف والابتداء",
-      "url": "https://share.eu.internxt.com/sh/file/8DBspcPESY6r_cf_wBkW5w/lK_o4nL6"
-    },
-    "Lec 12": {
-      "img": "https://images.unsplash.com/photo-1573483883644-d0b4b55eb25d?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب المقطوع والموصول",
-      "url": "https://secure.eu.internxt.com/sh/file/DzEToEy3TAWdPg8joAn2_Q/mLTz4bys"
-    },
-    "Lec 13": {
-      "img": "https://images.unsplash.com/photo-1641989210602-7c1efb2ff66c?q=80&w=601&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب التاءات",
-      "url": "https://share.ue.internxt.com/sh/file/7IePPt8HTa2IUaaloZlHLQ/noykXurq"
-    },
-    "Lec 14": {
-      "img": "https://images.unsplash.com/photo-1633412802994-5c058f151b66?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب همز الوصل",
-      "url": "https://secure.internxt.com/sh/file/XAv3RY1qSl24FbswgLrknw/OKxPWEUj"
-    },
-    "Lec 15": {
-      "img": "https://plus.unsplash.com/premium_photo-1683133939183-edd5476e6200?q=80&w=606&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "باب الوقف على أواخر الكلم",
-      "url": "https://secure.internxt.com/sh/file/4o9cOnEXSKibKjjb0sTI1w/c3ROMY6u"
-    },
-    "Lec 16": {
-      "img": "https://images.unsplash.com/photo-1639826909363-f7a7a2f77991?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "المتماثلان والمتجانسان والمتقاربان والمتباعدان",
-      "url": "https://share.eu.internxt.com/sh/file/ot1ojgfTQDSDdtWamBMqRg/sYeefFnJ"
-    },
-    "Lec 17": {
-      "img": "https://images.unsplash.com/photo-1583502568346-dbb4e3eb0e8d?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "الاستعاذة والبسملة",
-      "url": "https://share.ue.internxt.com/sh/file/pA8DzDYgRiKxhuBNP9rp-A/yCiTHo26"
+    "D_2": {
+      "Lec 16": {
+        "img": "",
+        "title": "باب فرش الحروف: سورة البقرة",
+        "url": "https://secure.eu.internxt.com/sh/file/d5LmAXhlRSe3Is5WTTDbwg/DP-LQHra"
+      },
+      "Lec 17": {
+        "img": "",
+        "title": "سورة آل عمران",
+        "url": "https://share.eu.internxt.com/sh/file/ToEs-TdVTlWDw_JX1Gf7nQ/zp63CA3d"
+      },
+      "Lec 18": {
+        "img": "",
+        "title": "سورة النساء",
+        "url": "https://secure.ue.internxt.com/sh/file/Z0bw5dKLTWyzVJrmpV1F9g/EE7mlU5i"
+      },
+      "Lec 19": {
+        "img": "",
+        "title": "سورة المائدة",
+        "url": "https://share.eu.internxt.com/sh/file/6qehGlgUS2iQbKhP-XPmCQ/6wYhxB3a"
+      },
+      "Lec 20": {
+        "img": "",
+        "title": "سورة اﻷنعام",
+        "url": "https://share.eu.internxt.com/sh/file/yhHUjTjcTYu3bbCwrBp50Q/VaAjMPIO"
+      },
+      "Lec 21": {
+        "img": "",
+        "title": "سورة اﻷعراف واﻷنفال",
+        "url": "https://secure.ue.internxt.com/sh/file/QOajZIl7Qf6lxu6nPEGKuw/IdnlpkOe"
+      },
+      "Lec 22": {
+        "img": "",
+        "title": "سورة التوبة ويونس وهود عليهما السلام",
+        "url": "https://secure.internxt.com/sh/file/YhVMny1rQMyGIvaUdTsaVw/yVuxKptG"
+      },
+      "Lec 23": {
+        "img": "",
+        "title": "سورة يوسف عليه السلام والرعد",
+        "url": "https://secure.internxt.com/sh/file/JvmQZS3rR2WF2KyjGlxQAg/HQ2i1uCP"
+      },
+      "Lec 24": {
+        "img": "",
+        "title": "ومن سورة إبراهيم عليه السلام إلى سورة الكهف",
+        "url": "https://share.ue.internxt.com/sh/file/T5__UpsgTfKGNnkqF5QJew/f2YvBn9S"
+      },
+      "Lec 25": {
+        "img": "",
+        "title": "سورة الكهف",
+        "url": "https://secure.ue.internxt.com/sh/file/bSrmEGLsQSypp-gv4b7ghg/XvP1fCC1"
+      }
     }
   },
-  "SH_1": {
-    "Lec 1": {
-      "img": "",
-      "title": "خطبة الكتاب",
-      "url": "https://share.eu.internxt.com/sh/file/T80ssJI1TdaPRNPw2aupyQ/M8oTI527"
-    },
-    "Lec 2, 3": {
-      "img": "",
-      "title": "بابا اﻻستعاذة والبسملة",
-      "url": "https://share.ue.internxt.com/sh/file/NHh9XZ-LR4C412CjDV07Qw/fMJ01iPL"
-    },
-    "Lec 4": {
-      "img": "",
-      "title": "سورة أم القرآن",
-      "url": "https://share.ue.internxt.com/sh/file/-_K8KvYITgSHrARiKpr7Jw/_ro81V72"
-    },
-    "Lec 5": {
-      "img": "",
-      "title": "باب اﻹدغام الكبير",
-      "url": "https://share.ue.internxt.com/sh/file/zo1R5ypsTa6dal5KT17dDQ/suNlNnpv"
-    },
-    "Lec 6": {
-      "img": "",
-      "title": "باب هاء الكناية",
-      "url": "https://secure.internxt.com/sh/file/v6uGvLLHQy-uVlkaPXL_kA/EI4KbW7m"
-    },
-    "Lec 7": {
-      "img": "",
-      "title": "باب المد والقصر",
-      "url": "https://share.ue.internxt.com/sh/file/ejm2LDTfSzextl3BorT_Ug/ZNHsUCMs"
-    },
-    "Lec 8": {
-      "img": "",
-      "title": "باب الهمزتين من كلمة",
-      "url": "https://secure.internxt.com/sh/file/4AAb6JTfSIiJlnAWJ7x51Q/G8njEtSJ"
-    },
-    "Lec 9": {
-      "img": "",
-      "title": "باب الهمزتين من كلمتين",
-      "url": "https://share.ue.internxt.com/sh/file/iHRWlYglQnCY8VdKccSlvA/JfhFV0RD"
-    },
-    "Lec 10": {
-      "img": "",
-      "title": "باب الهمز المفرد",
-      "url": "https://secure.internxt.com/sh/file/pZj-4k3cSKKxekPbPZSi2g/7K-pjsyS"
-    },
-    "Lec 11": {
-      "img": "",
-      "title": "باب نقل حركة الهمزة إلى الساكن قبلها",
-      "url": "https://share.ue.internxt.com/sh/file/EJCiMcQMQAyb_ieo1Yc7cw/xPkl9p98"
-    },
-    "Lec 12": {
-      "img": "",
-      "title": "باب وقف حمزة وهشام على الهمز",
-      "url": "https://secure.internxt.com/sh/file/6wN9M28ETKqtOBVqShFhWw/VdKajths"
-    },
-    "Lec 13": {
-      "img": "",
-      "title": "باب اﻹظهار واﻹدغام",
-      "url": "https://secure.internxt.com/sh/file/YjhF63AGQjG56icSlNCAkA/_2RwvMIp"
-    },
-    "Lec 14": {
-      "img": "",
-      "title": "باب حروف قربت مخارجها",
-      "url": "https://secure.internxt.com/sh/file/VGC3s6FDR1aG_dmUiICB3w/V23u_6I5"
-    },
-    "Lec 15": {
-      "img": "",
-      "title": "باب أحكام النون الساكنة والتنوين",
-      "url": "https://secure.ue.internxt.com/sh/file/PzFGc27cR1uoPMEVHY11mA/Am_tFwig"
-    },
-    "Lec 16": {
-      "img": "",
-      "title": "باب الفتح واﻹمالة وبين اللفظين",
-      "url": "https://share.ue.internxt.com/sh/file/WLLzr3NNQLy2KBnYvtVEFw/kturi-8S"
-    },
-    "Lec 17": {
-      "img": "",
-      "title": "باب مذهب الكسائي في إمالة هاء التأنيث وما قبلها في الوقف",
-      "url": "https://secure.ue.internxt.com/sh/file/KnDsEC7vQwGwihoiS5j8bQ/DAKdKzHg"
-    },
-    "Lec 18": {
-      "img": "",
-      "title": "باب الراءات",
-      "url": "https://secure.internxt.com/sh/file/av4arhkuQa-7ojQQ-xquVQ/qrY21wEn"
-    },
-    "Lec 19": {
-      "img": "",
-      "title": "باب اللامات",
-      "url": "https://share.eu.internxt.com/sh/file/D0RZFRO0TFGDCtvuKDyn4g/rjklQR_z"
-    },
-    "Lec 20": {
-      "img": "",
-      "title": "باب الوقف على مرسوم الخط",
-      "url": "https://secure.internxt.com/sh/file/Hj3rTLFRQUiSCrt2kShraQ/hh8LKAwK"
-    },
-    "Lec 21": {
-      "img": "",
-      "title": "باب ياءات اﻹضافة",
-      "url": "https://secure.internxt.com/sh/file/saqWpSdnQ4Cqr1alMN4LkA/-efqY8xt"
-    },
-    "Lec 22": {
-      "img": "",
-      "title": "باب الياءات الزوائد",
-      "url": "https://secure.internxt.com/sh/file/ixa71fLvQAGf3__Kow4r1Q/MlfyBKOo"
-    }
-  },
-  "SH_2": {
-    "Lec 23": {
-      "img": "",
-      "title": "باب فرش الحروف: سورة البقرة",
-      "url": "https://secure.eu.internxt.com/sh/file/1UOu5rkWQPanCsQ-xm7yHg/6niB3eJe"
-    },
-    "Lec 24": {
-      "img": "",
-      "title": "سورة آل عمران",
-      "url": "https://secure.internxt.com/sh/file/3edRt4RQRDWmfAkGAQbSXg/yu1wWg-c"
-    },
-    "Lec 25": {
-      "img": "",
-      "title": "سورة النساء",
-      "url": "https://share.ue.internxt.com/sh/file/6HRJLwj4RnOpl27sJFMfuA/1XQpIm--"
-    },
-    "Lec 26": {
-      "img": "",
-      "title": "سورة المائدة",
-      "url": "https://share.eu.internxt.com/sh/file/KPM5lebzQeKARN3TaRE3NA/Px2XOgsx"
-    },
-    "Lec 27": {
-      "img": "",
-      "title": "سورة اﻷنعام",
-      "url": "https://secure.internxt.com/sh/file/_AEMwfabQKe2eWAj1ZHl5A/8VLUbZfJ"
-    },
-    "Lec 28": {
-      "img": "",
-      "title": "سورة اﻷعراف",
-      "url": "https://secure.internxt.com/sh/file/3-JeRYi-SGWGtRUgGdm8pQ/ne8XgzHv"
-    },
-    "Lec 29": {
-      "img": "",
-      "title": "سورة اﻷنفال",
-      "url": "https://secure.internxt.com/sh/file/EHrizRHtTMydXH_vMd7d6A/GxumvzVR"
-    },
-    "Lec 30": {
-      "img": "",
-      "title": "سورة التوبة",
-      "url": "https://share.eu.internxt.com/sh/file/4zPgPwggQn2tmRPhsjUwdw/PGtmtr9R"
-    },
-    "Lec 31": {
-      "img": "",
-      "title": "سورة يونس",
-      "url": "https://secure.eu.internxt.com/sh/file/O75eEU5dTKOTrz88O9yI0A/I24QX6Op"
-    },
-    "Lec 32": {
-      "img": "",
-      "title": "سورة هود",
-      "url": "https://share.ue.internxt.com/sh/file/zL7j-h5XTX2Vuf6lgWru_A/NN0hL9DM"
-    },
-    "Lec 33": {
-      "img": "",
-      "title": "سورة يوسف",
-      "url": "https://secure.internxt.com/sh/file/L7-pL3VSSBmrNR7i692QwA/URXegW8S"
-    },
-    "Lec 34": {
-      "img": "",
-      "title": "سورة الرعد",
-      "url": "https://secure.internxt.com/sh/file/j_Yofuw7T32nDG6ppQOGqg/5vnuGlVy"
-    },
-    "Lec 35": {
-      "img": "",
-      "title": "سورة إبراهيم",
-      "url": "https://share.ue.internxt.com/sh/file/90Mrj1AyQxurCWKKjkuQiQ/s_zPU0T2"
-    },
-    "Lec 36": {
-      "img": "",
-      "title": "سورة الحجر",
-      "url": "https://secure.ue.internxt.com/sh/file/ND9JKK2fQwq9lhhI_TZrPA/RpHjzBcT"
-    },
-    "Lec 37": {
-      "img": "",
-      "title": "سورة النحل",
-      "url": "https://secure.eu.internxt.com/sh/file/42m9l8fHR7KhuqQS9KOF9g/zJjrz1yl"
-    },
-    "Lec 38": {
-      "img": "",
-      "title": "سورة اﻹسراء",
-      "url": "https://secure.internxt.com/sh/file/B38TeG0ARv2Pv2YMUZmFgg/eBZE8NcH"
-    },
-    "Lec 39": {
-      "img": "",
-      "title": "سورة الكهف",
-      "url": "https://secure.internxt.com/sh/file/KwTEdjAFSMCnKpvGyDSffA/42I7XV1U"
-    }
-  },
-  "D_1": {
-    "Lec 1": {
-      "img": "",
-      "title": "المقدمة",
-      "url": "https://share.eu.internxt.com/sh/file/QyxsvbgDQM2SkDEvpnAvNA/TWKpKO9z"
-    },
-    "Lec 2": {
-      "img": "",
-      "title": "باب البسملة وأم القرآن",
-      "url": "https://share.ue.internxt.com/sh/file/QstqPxybQlqFsD8UMBQRPg/SyQD6BLa"
-    },
-    "Lec 3": {
-      "img": "",
-      "title": "اﻹدغام الكبير",
-      "url": "https://share.eu.internxt.com/sh/file/2sWV2WrtQoCEn41ay7B0ww/daey7jPS"
-    },
-    "Lec 4": {
-      "img": "",
-      "title": "هاء الكناية",
-      "url": "https://secure.ue.internxt.com/sh/file/o13E4XrrTkmU-EPI8-TIkg/sQ5Denjj"
-    },
-    "Lec 5": {
-      "img": "",
-      "title": "المد والقصر",
-      "url": "https://secure.eu.internxt.com/sh/file/OsJFxHQpTESfS_xobwTHrQ/PjmnsqB0"
-    },
-    "Lec 6": {
-      "img": "",
-      "title": "الهمزتان من كلمة",
-      "url": "https://share.eu.internxt.com/sh/file/Gg5NplGQS7m6iOviAGG2Mw/9-9I9Lz1"
-    },
-    "Lec 7": {
-      "img": "",
-      "title": "الهمزتان من كلمتين",
-      "url": "https://secure.internxt.com/sh/file/aN8z_3S1QzawV-G6X5T6ZQ/JI9bteZr"
-    },
-    "Lec 8": {
-      "img": "",
-      "title": "الهمز المفرد",
-      "url": "https://share.ue.internxt.com/sh/file/S4nPKOK5Q0iDp3AZvNceQQ/W2spQb06"
-    },
-    "Lec 9": {
-      "img": "",
-      "title": "النقل والسكت والوقف على الهمز",
-      "url": "https://secure.eu.internxt.com/sh/file/ixIEe6yJS2W_qEaDGspQWQ/vnKQG9Ns"
-    },
-    "Lec 10": {
-      "img": "",
-      "title": "اﻹدغام الصغير",
-      "url": "https://secure.ue.internxt.com/sh/file/gqfUxlC4TgyUuL5VYFYn7A/DXwh1Wu0"
-    },
-    "Lec 11": {
-      "img": "",
-      "title": "النون الساكنة والتنوين",
-      "url": "https://share.ue.internxt.com/sh/file/QouCjBa5RfqvvhkHh0VLTQ/pPBi3---"
-    },
-    "Lec 12": {
-      "img": "",
-      "title": "الفتح واﻹمالة",
-      "url": "https://secure.ue.internxt.com/sh/file/r1LUIoUvQtK10vTYEJQ6ug/j2cEnHfy"
-    },
-    "Lec 13": {
-      "img": "",
-      "title": "الراءات واللامات والوقف على المرسوم",
-      "url": "https://secure.eu.internxt.com/sh/file/xpbMv3YMQXOXoPcMoclSJw/3NXKKviH"
-    },
-    "Lec 14": {
-      "img": "",
-      "title": "ياءات اﻹضافة",
-      "url": "https://share.eu.internxt.com/sh/file/pcJPuMsQTDKIOphD2zrsTg/6izJlSLZ"
-    },
-    "Lec 15": {
-      "img": "",
-      "title": "الياءات الزوائد",
-      "url": "https://share.eu.internxt.com/sh/file/f_3tCRhlSl6tp3A6EugEsA/uNSxUfLB"
-    }
-  },
-  "D_2": {
-    "Lec 16": {
-      "img": "",
-      "title": "باب فرش الحروف: سورة البقرة",
-      "url": "https://secure.eu.internxt.com/sh/file/d5LmAXhlRSe3Is5WTTDbwg/DP-LQHra"
-    },
-    "Lec 17": {
-      "img": "",
-      "title": "سورة آل عمران",
-      "url": "https://share.eu.internxt.com/sh/file/ToEs-TdVTlWDw_JX1Gf7nQ/zp63CA3d"
-    },
-    "Lec 18": {
-      "img": "",
-      "title": "سورة النساء",
-      "url": "https://secure.ue.internxt.com/sh/file/Z0bw5dKLTWyzVJrmpV1F9g/EE7mlU5i"
-    },
-    "Lec 19": {
-      "img": "",
-      "title": "سورة المائدة",
-      "url": "https://share.eu.internxt.com/sh/file/6qehGlgUS2iQbKhP-XPmCQ/6wYhxB3a"
-    },
-    "Lec 20": {
-      "img": "",
-      "title": "سورة اﻷنعام",
-      "url": "https://share.eu.internxt.com/sh/file/yhHUjTjcTYu3bbCwrBp50Q/VaAjMPIO"
-    },
-    "Lec 21": {
-      "img": "",
-      "title": "سورة اﻷعراف واﻷنفال",
-      "url": "https://secure.ue.internxt.com/sh/file/QOajZIl7Qf6lxu6nPEGKuw/IdnlpkOe"
-    },
-    "Lec 22": {
-      "img": "",
-      "title": "سورة التوبة ويونس وهود عليهما السلام",
-      "url": "https://secure.internxt.com/sh/file/YhVMny1rQMyGIvaUdTsaVw/yVuxKptG"
-    },
-    "Lec 23": {
-      "img": "",
-      "title": "سورة يوسف عليه السلام والرعد",
-      "url": "https://secure.internxt.com/sh/file/JvmQZS3rR2WF2KyjGlxQAg/HQ2i1uCP"
-    },
-    "Lec 24": {
-      "img": "",
-      "title": "ومن سورة إبراهيم عليه السلام إلى سورة الكهف",
-      "url": "https://share.ue.internxt.com/sh/file/T5__UpsgTfKGNnkqF5QJew/f2YvBn9S"
-    },
-    "Lec 25": {
-      "img": "",
-      "title": "سورة الكهف",
-      "url": "https://secure.ue.internxt.com/sh/file/bSrmEGLsQSypp-gv4b7ghg/XvP1fCC1"
-    }
+  "status": {
+    "tajweed": "Completed",
+    "SH_1": "Completed",
+    "SH_2": "Ongoing",
+    "D_1": "Completed",
+    "D_2": "Ongoing"
   }
 }
