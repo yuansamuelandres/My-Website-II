@@ -10,7 +10,7 @@ function Lectures() {
           <h2 style={{ textAlign: "center" }}>قسم القرآن العظيم</h2>
           <ul className="grid">
             <li className="tajweed">
-              <Link to="../HTML/tajweed">التجويد</Link>
+              <Link to="../html/tajweed">التجويد</Link>
             </li>
             <li className="sh">
               <Link to="../HTML/sh">الشاطبية</Link>
