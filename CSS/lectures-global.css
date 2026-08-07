@@ -126,6 +126,8 @@ h5 {
 .part-img {
   width: 15rem;
   border-radius: 1rem;
+  display: block;
+  margin-inline: auto;
 }
 
 .lecture-cards {
