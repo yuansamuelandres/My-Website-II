@@ -13,10 +13,10 @@ function Lectures() {
               <Link to="../html/tajweed">التجويد</Link>
             </li>
             <li className="sh">
-              <Link to="../HTML/sh">الشاطبية</Link>
+              <Link to="../html/sh">الشاطبية</Link>
             </li>
             <li className="d">
-              <Link to="../HTML/d">الدرة</Link>
+              <Link to="../html/d">الدرة</Link>
             </li>
           </ul>
         </div>
