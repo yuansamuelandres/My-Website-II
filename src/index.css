@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  --ff: "Poppins", sans-serif;
+  --color-text-t: #5f7adb;
+  --color-text-sh: #4c9a62;
+  --color-text-d: #ffb874;
+}
+
+@layer base {
+  h1 {
+    @apply text-4xl font-extrabold tracking-tight my-5;
+  }
+  h2 {
+    @apply text-3xl font-bold tracking-tight my-3;
+  }
+  h3 {
+    @apply font-semibold tracking-tight my-2;
+  }
+}
+
+
+
+@utility container {
+  max-width: 90%;
+  margin-inline: auto;
+  font-weight: bold;
+  font-size: large;
+}
