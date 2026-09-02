@@ -17,6 +17,9 @@ function Lectures() {
             <li className="text-text-d">
               <Link to="../html/d">الدرة</Link>
             </li>
+            <li className="text-text-f">
+              <Link to="../html/f">الفوائد</Link>
+            </li>
           </ul>
         </div>
       </div>

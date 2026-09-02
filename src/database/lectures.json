@@ -414,6 +414,68 @@
         "title": "سورة الكهف",
         "url": "https://secure.ue.internxt.com/sh/file/bSrmEGLsQSypp-gv4b7ghg/XvP1fCC1"
       }
+    },
+    "F_1": {
+      "Lec 1": {
+        "img": "",
+        "title": "المقدمة",
+        "url": "https://share.eu.internxt.com/sh/file/y3h0yOhjRg-GJCoGjTS9HQ/cff867573ecf530439f7897cf570de02c3c6c5248164edc7aa1cd678ad6e093a"
+      },
+      "Lec 2": {
+        "img": "",
+        "title": "بابا اﻻستعاذة والبسملة",
+        "url": "https://secure.internxt.com/sh/file/QYUHB8uSRzCpp9eozPpBLg/da2b9364b0da68be3bd5546913df650766735d2b3b448ad8d00c746a10bf6d6a"
+      },
+      "Lec 3": {
+        "img": "",
+        "title": "سورة أم القرآن",
+        "url": "https://share.ue.internxt.com/sh/file/TT7LFW2iSIewJe3wziEnfQ/aa10ea3cf353b1dab47f07d24b94b6dcc58eca9bf24488fedcde38dce7a3572c"
+      },
+      "Lec 4": {
+        "img": "",
+        "title": "باب الإدغام الكبير",
+        "url": "https://secure.internxt.com/sh/file/ZPnJzbGDRdS4JDoUjqOR6w/c7752942b7fb3a5a494708b3df1c99236a1f4a0e3213267060f2b041f2a1891a"
+      },
+      "Lec 5": {
+        "img": "",
+        "title": "باب المد والقصر",
+        "url": "https://share.eu.internxt.com/sh/file/lHDaEjwnR_CCct1hW4OsWQ/911730d075c6bc2653d25b9598f5987daca6b7b9712f5b01c25633dce3447aa3"
+      },
+      "Lec 6": {
+        "img": "",
+        "title": "باب الهمزتان من كلمة",
+        "url": "https://secure.ue.internxt.com/sh/file/yiyhxPY_Tx665uw2h5R6xA/5e9a85f68ececbe50b0a59e4f8b39caa70518600a407575352fcc298b84a5e8e"
+      },
+      "Lec 7": {
+        "img": "",
+        "title": "باب الهمزتين من كلمتين",
+        "url": "https://share.ue.internxt.com/sh/file/jNWzCyZRQ5-Y59SJMuO9Rg/df8af0160da737f26446925ac089577261449dc1ce98a42849ccc54ef983bbfe"
+      },
+      "Lec 8": {
+        "img": "",
+        "title": "باب الهمز المفرد",
+        "url": "https://share.ue.internxt.com/sh/file/xzW21bCCQ0e2mhaS6tI2hg/9fffdedb6b972abc177f892788ad9de4dafa0c09e46665bda3013c50cbd6ed5e"
+      },
+      "Lec 9": {
+        "img": "",
+        "title": "باب نقل حركة الهمزة إلى الساكن قبلها والسكت" ,
+        "url": "https://secure.eu.internxt.com/sh/file/SrjxyzO1ROi41KJEr2HwAw/3383cfbbf0f842243cfbd395bbd5dc4cea3bd6592c78d78875fcf80c1d635bc0"
+      },
+      "Lec 10": {
+        "img": "",
+        "title": "باب وقف الأعمش على الهمز",
+        "url": "https://secure.internxt.com/sh/file/ZQh3eg0rS1WMipUappFP4Q/59b15e2a40dea12f75d544d2185515235306d4de090ddee2ebf41b784b0de070"
+      },
+      "Lec 11": {
+        "img": "",
+        "title": "باب الإظهار والإدغام",
+        "url": "https://secure.ue.internxt.com/sh/file/McdU9jC-ScCOXcXNxux28Q/4be799e21094a51e20fecbc851339f0451c00ad1dcb5512a9e689b30458a22d0"
+      },
+      "Lec 12": {
+        "img": "",
+        "title": "باب حروف قربت مخارجها مع أحكام النون الساكنة والتنوين",
+        "url": "https://share.ue.internxt.com/sh/file/gHjeMwzmReaHsfn0eI4w2Q/40e80fb60cc43a43ce8a2585b461c23b0f840cc8643afd4be7ef1a4460443e0a"
+      }
     }
   },
   "status": {
@@ -421,6 +483,7 @@
     "SH_1": "Completed",
     "SH_2": "Ongoing",
     "D_1": "Completed",
-    "D_2": "Ongoing"
+    "D_2": "Ongoing",
+    "F_1": "Ongoing"
   }
 }
